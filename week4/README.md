@@ -1,4 +1,4 @@
-# Content Explaining and Week3 Learning Journal of CMS
+# Content Explaining and Week4 Learning Journal of CMS
 
 **Student name:** Yulin Chen  
 **Student ID:** 14333198
